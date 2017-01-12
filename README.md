@@ -1,6 +1,8 @@
 # vscode 快捷命令
+
 ## 主命令框
 * F1 或 Ctrl+Shift+P: 打开命令面板。
+
 ## 窗口操作
 * 打开一个新窗口： Ctrl+Shift+N
 * 关闭窗口： Ctrl+Shift+W
